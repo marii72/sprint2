@@ -142,9 +142,9 @@ Exemplo de dados simulados para um dia típico (21/06, São Paulo — SP):
 | 18:00 | 94 | 7.832 | 639,1 |
 
 **Total diário simulado:**
-- ⚡ Energia gerada: **7,83 kWh**
-- 🌱 CO₂ evitado: **0,64 kg**
-- 💰 Economia estimada: **R$ 7,05** (tarifa média R$ 0,90/kWh)
+-  Energia gerada: **7,83 kWh**
+-  CO₂ evitado: **0,64 kg**
+-  Economia estimada: **R$ 7,05** (tarifa média R$ 0,90/kWh)
 
 ---
 
