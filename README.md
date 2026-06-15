@@ -1,4 +1,4 @@
-# ☀️ SolarTrack — Sistema de Monitoramento de Energia Solar Fotovoltaica
+# ⋆ 𖤓 ⋆˚࿔ SolarTrack — Sistema de Monitoramento de Energia Solar Fotovoltaica
 
 > **Sprint 2 — Prova de Conceito Funcional**  
 > Disciplina: Soluções em Energias Renováveis e Sustentáveis  
