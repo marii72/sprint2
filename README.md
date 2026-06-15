@@ -10,10 +10,10 @@
 
 | Nome | RM |
 |---|---|
+| Mariana Carminato | 573258 | 
 | Gabriel Jurado Nogueira | 571236 |
-| Guilherme Henrique de Almeida | 568708 |
 | Guilherme Garbelini | 571150 |
-| Mariana Carminato | 573258 |
+| Guilherme Henrique de Almeida | 568708 |
 | Vinicius Torralles Ferreira Conduta | 570911 |
 
 ---
