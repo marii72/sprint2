@@ -4,7 +4,6 @@
 > Disciplina: Soluções em Energias Renováveis e Sustentáveis  
 > FIAP — 2026
 
-⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆
 ---
 
 ##  Integrantes
