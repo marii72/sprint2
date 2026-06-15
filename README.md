@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Integrantes
+##  Integrantes
 
 | Nome | RM |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 Visão Geral do Projeto
+##  Visão Geral do Projeto
 
 O **SolarTrack** é um sistema de monitoramento e análise de geração de energia solar fotovoltaica residencial. A solução coleta (ou simula) dados de painéis solares e apresenta, em tempo real, indicadores de desempenho energético — como potência gerada, energia acumulada, economia financeira e redução de emissões de CO₂.
 
@@ -26,13 +26,13 @@ O objetivo é democratizar o acesso à informação sobre geração de energia l
 
 ---
 
-## 🎬 Vídeo de Demonstração
+##  Vídeo de Demonstração
 
-🔗 [Assistir no YouTube](https://youtu.be/zAA9hANLojE)
+ [vou colocar ainda)
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+##  Arquitetura do Sistema
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -69,7 +69,7 @@ O objetivo é democratizar o acesso à informação sobre geração de energia l
 
 ---
 
-## ⚙️ Instalação e Execução
+##  Instalação e Execução
 
 ### Pré-requisitos
 
@@ -95,7 +95,7 @@ python simulation.py
 
 ---
 
-## 🔬 Simulação — Modelo Físico
+##  Simulação — Modelo Físico
 
 O script `simulation.py` implementa um modelo simplificado de geração fotovoltaica baseado nos seguintes princípios físicos:
 
@@ -127,7 +127,7 @@ CO₂ evitado (kg) = Energia gerada (kWh) × 0,0816 kg/kWh
 
 ---
 
-## 📊 Dados Gerados — Exemplo de Saída
+##  Dados Gerados — Exemplo de Saída
 
 Exemplo de dados simulados para um dia típico (21/06, São Paulo — SP):
 
@@ -148,7 +148,7 @@ Exemplo de dados simulados para um dia típico (21/06, São Paulo — SP):
 
 ---
 
-## 🌱 Princípios de Sustentabilidade e Energias Renováveis
+##  Princípios de Sustentabilidade e Energias Renováveis
 
 ### ODS Relacionadas (ONU)
 - **ODS 7** — Energia acessível e limpa: a solução monitora e otimiza geração de energia solar, fonte 100% renovável
@@ -165,7 +165,7 @@ A energia solar fotovoltaica é hoje a **fonte de energia mais barata da histór
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 /
@@ -179,7 +179,7 @@ A energia solar fotovoltaica é hoje a **fonte de energia mais barata da histór
 
 ---
 
-## 🔭 Próximos Passos (Sprint 3)
+##  Próximos Passos (Sprint 3)
 
 - Integração com inversor solar real via protocolo Modbus/RS485
 - Comparativo entre geração solar e consumo da residência
@@ -188,7 +188,7 @@ A energia solar fotovoltaica é hoje a **fonte de energia mais barata da histór
 
 ---
 
-## 📚 Referências
+##  Referências
 
 - IPCC (2021). Climate Change 2021: The Physical Science Basis. Tabela de fatores de emissão.
 - IEA (2023). Renewables 2023. International Energy Agency.
