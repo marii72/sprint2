@@ -22,7 +22,7 @@
 
 ---
 
-##  Visão Geral do Projeto
+##  Visão Geral do Projeto 𖤓˚⋆.ೃ࿔*:･
 
 O **SolarTrack** é um sistema de monitoramento e análise de geração de energia solar fotovoltaica residencial. A solução coleta (ou simula) dados de painéis solares e apresenta, em tempo real, indicadores de desempenho energético — como potência gerada, energia acumulada, economia financeira e redução de emissões de CO₂.
 
@@ -30,13 +30,13 @@ O objetivo é democratizar o acesso à informação sobre geração de energia l
 
 ---
 
-##  Vídeo de Demonstração
+##  Vídeo de Demonstração 𖤓˚⋆.ೃ࿔*:･
 
  [vou colocar ainda)
 
 ---
 
-##  Arquitetura do Sistema
+##  Arquitetura do Sistema 𖤓˚⋆.ೃ࿔*:･
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -62,7 +62,7 @@ O objetivo é democratizar o acesso à informação sobre geração de energia l
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Componentes Técnicos
+### Componentes Técnicos 𖤓˚⋆.ೃ࿔*:･
 
 | Componente | Tecnologia | Justificativa |
 |---|---|---|
@@ -73,7 +73,7 @@ O objetivo é democratizar o acesso à informação sobre geração de energia l
 
 ---
 
-##  Instalação e Execução
+##  Instalação e Execução 𖤓˚⋆.ೃ࿔*:･
 
 ### Pré-requisitos
 
@@ -99,7 +99,7 @@ python simulation.py
 
 ---
 
-##  Simulação — Modelo Físico
+##  Simulação — Modelo Físico 
 
 O script `simulation.py` implementa um modelo simplificado de geração fotovoltaica baseado nos seguintes princípios físicos:
 
