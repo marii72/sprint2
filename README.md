@@ -1,12 +1,15 @@
 # ⋆ 𖤓 ⋆˚࿔ SolarTrack — Sistema de Monitoramento de Energia Solar Fotovoltaica
 
-> **Sprint 2 — Prova de Conceito Funcional**  
+> **Sprint 2 **  
 > Disciplina: Soluções em Energias Renováveis e Sustentáveis  
 > FIAP — 2026
 
+⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆
 ---
 
 ##  Integrantes
+
+⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆
 
 | Nome | RM |
 |---|---|
@@ -15,6 +18,8 @@
 | Guilherme Garbelini | 571150 |
 | Guilherme Henrique de Almeida | 568708 |
 | Vinicius Torralles Ferreira Conduta | 570911 |
+
+⋆⁺₊⋆ ☀︎ ⋆⁺₊⋆
 
 ---
 
