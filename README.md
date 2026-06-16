@@ -31,11 +31,12 @@ O objetivo é democratizar o acesso à informação sobre geração de energia l
 ---
 
 ##  Vídeo de Demonstração 𖤓˚⋆.ೃ࿔*:･
-
- [vou colocar ainda)
+https://www.youtube.com/watch?v=GeETkMjopxI (Colocar em 720p)
 
 ---
-
+##  Link do Painel 𖤓˚⋆.ೃ࿔*:･
+file:///C:/Users/x/Downloads/files%20(3)/dashboard.html
+---
 ##  Arquitetura do Sistema 𖤓˚⋆.ೃ࿔*:･
 
 ```
